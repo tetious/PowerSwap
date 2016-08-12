@@ -1,0 +1,7 @@
+*.bak
+*-bak
+*.bck
+*-cache.lib
+~*
+*.rpt
+gerbers.zip
